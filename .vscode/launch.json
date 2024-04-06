@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Agustin Arana/Dropbox/Ingenieria/Estructura de Datos y algoritmos/Ex-Estructura-de-Datos-y-Algoritmos",
-      "program": "c:/Users/Agustin Arana/Dropbox/Ingenieria/Estructura de Datos y algoritmos/Ex-Estructura-de-Datos-y-Algoritmos/build/Debug/outDebug",
+      "cwd": "c:/Users/Agustin Arana/Dropbox/Ingenieria/01 - Estructura de Datos y algoritmos/Ex-Estructura-de-Datos-y-Algoritmos",
+      "program": "c:/Users/Agustin Arana/Dropbox/Ingenieria/01 - Estructura de Datos y algoritmos/Ex-Estructura-de-Datos-y-Algoritmos/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
